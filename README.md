@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://xanmod.org/index_files/xmk.png" width="250">
   <h1 align="center">XanMod Simpler</h1>
-  <p align="center">[EN] Makes XanMod installation simpler.</p>
+  <p align="center">[EN] Makes installation of XanMod simpler.</p>
   <p align="center">[TR] XanMod kurulumunu daha basit hale getirir.</p>
 </div>
 
