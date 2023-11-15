@@ -24,7 +24,7 @@ XanMod için 4 farklı mod vardır:
 ## [TR] XANMOD KURULUMU
 
 ```
-git clone https://github.com/KaptanLingu/xanmod-simpler.git && cd xanmod-simpler && chmod +x *.sh
+sudo apt install git && git clone https://github.com/KaptanLingu/xanmod-simpler.git && cd xanmod-simpler && chmod +x *.sh
 ```
 İlk önce yukarıdaki komutu girin. Sonra aşağıdaki tablodan dağıtımınız, işlemci modeliniz ve seçtiğiniz XanMod sürümüne göre komut girin.
 
